@@ -30,5 +30,6 @@ What is localhost/127.0.0.1
 
 What is 0.0.0.0
 
-What is /etc/hostsShell basics
+What is /etc/hos# `Web stack debugging 1`
+![](https://cdn.educba.com/academy/wp-content/uploads/2019/09/What-is-Debugging.png)tsShell basics
 file meaning
